@@ -1,0 +1,6 @@
+boto3
+streamlit
+pandas
+pillow
+awscli
+numpy
